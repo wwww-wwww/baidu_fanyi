@@ -1,7 +1,10 @@
+# baidu_fanyi
+## Baidu translation API library
+
 Usage:
 
 ```
-from baidu_fanyi import Translator
+from baidu_tl import Translator
 
 # create a Baidu developer account and project
 # at http://developer.baidu.com/console#app/project
