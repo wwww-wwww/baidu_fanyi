@@ -1,10 +1,12 @@
 # baidu_fanyi
 ## Baidu translation API library
 
+[![PyPI version](https://badge.fury.io/py/baidu-fanyi.svg)](https://badge.fury.io/py/baidu-fanyi)
+
 Usage:
 
 ```
-from baidu_tl import Translator
+from baidu_fanyi import Translator
 
 # create a Baidu developer account and project
 # at http://developer.baidu.com/console#app/project
