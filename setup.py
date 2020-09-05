@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
   name="baidu_fanyi",
-  version="0.0.2",
+  version="0.0.3",
   author="wwwwwwww",
   author_email="wvvwvvvvwvvw@gmail.com",
   description="Baidu translation API",
@@ -15,7 +15,7 @@ setuptools.setup(
   packages=setuptools.find_packages(),
   classifiers=[
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     "Operating System :: OS Independent",
   ],
   python_requires='>=3.6',
